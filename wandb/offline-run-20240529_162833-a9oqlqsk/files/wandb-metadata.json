@@ -1,0 +1,39 @@
+{
+    "os": "Windows-10-10.0.19045-SP0",
+    "python": "3.11.7",
+    "heartbeatAt": "2024-05-29T20:28:33.224185",
+    "startedAt": "2024-05-29T20:28:33.050365",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "C:\\Users\\Tyleel Latimore\\source\\repos\\Algotrade\\Algotrade.py",
+    "codePathLocal": "Algotrade.py",
+    "codePath": "Algotrade.py",
+    "host": "DESKTOP-T5AMSA2",
+    "username": "Tyleel Latimore",
+    "executable": "C:\\Users\\Tyleel Latimore\\anaconda3\\python.exe",
+    "cpu_count": 4,
+    "cpu_count_logical": 4,
+    "cpu_freq": {
+        "current": 3301.0,
+        "min": 0.0,
+        "max": 3301.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3301.0,
+            "min": 0.0,
+            "max": 3301.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 476.3372230529785,
+            "used": 470.7448043823242
+        }
+    },
+    "memory": {
+        "total": 15.913623809814453
+    }
+}
